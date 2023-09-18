@@ -8,6 +8,10 @@ The Air Quality Index (AQI) is a crucial metric used by the Environmental Protec
 
 The dataset comprises 260 entries, including parameters like date, state, county, city, local site, AQI, and more. The mean AQI stands at approximately 6.76, reflecting generally good air quality.
 
+![Dashboard](dashboardaqi.PNG)
+![dashboardaqi](https://github.com/mussarratk/AQI_Statistical-DataAnalysisProject/assets/136079359/198313cc-e945-412b-ae23-2679d063e834)
+
+
 ## States' AQI Summary
 
 - California: 66 entries
