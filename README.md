@@ -73,5 +73,6 @@ For Ohio, the 95% confidence interval is calculated as [5.09, 9.39]. This implie
 ## Conclusion
 
 This analysis offers valuable insights into air quality data, emphasizing the importance of the central limit theorem and the implications of random sampling. The findings provide a solid foundation for informed decision-making and targeted interventions to enhance air quality in affected regions.
+😄
 
 
